@@ -1,4 +1,4 @@
-package com.quiz_fusion.services;
+package com.quiz_fusion.service;
 
 public class HomePageService {
 
